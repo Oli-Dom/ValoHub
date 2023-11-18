@@ -1,0 +1,12 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  height: 50px;
+  align-items: center;
+  background-color: #fd4556;
+}
+
+.navbar h2 {
+  color: #fff;
+}
